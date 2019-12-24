@@ -1,5 +1,5 @@
 package com.newer.domain;
 
 public class User {
-    //ÓÃ»§
+    //ç”¨æˆ·
 }
